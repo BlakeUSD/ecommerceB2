@@ -1,4 +1,5 @@
-# EcommerceB1
+# EcommerceB2
+
 This is a dynamic, responsive e-commerce restaurant app created with ReactJS and TailwindCSS. Highlights:
 
 - Implemented data API to fetch food data and prices
@@ -15,7 +16,8 @@ This is a dynamic, responsive e-commerce restaurant app created with ReactJS and
 - Git
 
 ## Project view
-- pending
+
+![Screen](https://github.com/BlakeUSD/github-repo-image-hosting/blob/31138e64996b21b4dc02dd5ecb14e081f3a29a6e/images/ecommerceb2.png)
 
 ## Getting Started
 
@@ -44,9 +46,9 @@ git clone https://github.com/BlakeUSD/ecommerceB2.git
 
 ## Deploying
 
-- After opening the files in Visual Studio Code, open the **VS Code** integrated terminal and run ``` yarn ``` to install the dependencies used.
-- Run ``` yarn run build ``` to bundle the **JavaScript** files with Webpack.
-- Run ``` yarn run dev ``` to launch the files with Webpack Dev Server.
+- After opening the files in Visual Studio Code, open the **VS Code** integrated terminal and run `yarn` to install the dependencies used.
+- Run `yarn run build` to bundle the **JavaScript** files with Webpack.
+- Run `yarn run dev` to launch the files with Webpack Dev Server.
 
 ## Authors
 
